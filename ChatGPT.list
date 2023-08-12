@@ -1,0 +1,9 @@
+  # Proxy
+  # Maintained by aaaa.gay
+  # Last update 2022.2.23
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,sentry.io
